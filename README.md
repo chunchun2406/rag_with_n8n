@@ -42,5 +42,10 @@ Note: The project is in developing progress so it does not UI yet.
 
 ![image](https://github.com/user-attachments/assets/ab2d59b9-1785-4bf6-ac38-6ecfad18bdd7)
 
-- The 
+- Choose the chat_with_pdf.json. This is the flow to chat with a pdf after storing, downloading file and integrating with an conversational AI agent.
+
+![image](https://github.com/user-attachments/assets/e9e61f99-2bd2-4552-a025-10f9dc745de4)
+
+- Click the chat button and start chatting in the box.
+
 
