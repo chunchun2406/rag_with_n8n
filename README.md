@@ -30,7 +30,14 @@ If you attempt to integrate with Google, OpenAI, HuggingFace or Gemini, you must
 
 *Gemini:*
 
-- Go to Google AI Studio, create one API Key.
+- Go to Google AI Studio, create one API Key. Remember to save them and do not share anywhere.
+
+When using those nodes, create a credential like this:
+
+![image](https://github.com/user-attachments/assets/9d3c3f8d-3410-42d8-9d0b-dedc3403d04c)
+
+Input your API Key, then you can choose the model depending on youir requirement.
+
 
 **How to import workflow:**
 
